@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there.
+![](star-wars-hello-there.gif)
 
-<!--
-**mdewey123/mdewey123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The prompts:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on changing careers.
+- 🌱 I’m currently learning everything?? It seems like I dont know what I need to know.
+<!-- - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with a lot. Any career advice is apreciated.
+<!-- - 💬 Ask me about ... -->
+<!-- - 📫 How to reach me: -->
+<!-- - 😄 Pronouns: -->
+- ⚡ Fun fact: ... still thinking about this one.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
