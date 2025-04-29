@@ -1,14 +1,6 @@
 ## Hello there.
 ![](star-wars-hello-there.gif)
 
-The prompts:
+Graduating from Thompson Rivers University with a Bsc in Chemical Biology, I have an analytical mindset tailored to approach unique problems with novel solutions. In this degree I sought to solve medical and environmental issues through a chemical approach, designing de novo antimicrobial peptides and researching the affects of increased greenhouse gasses on the snowpack. Over the last year, I have been studying python fundementals and web design using Django framework. I am currently looking for entry level work to start my new career and a company I can grow to fit in, becoming a leading member of their team. No stranger to heavy workloads, I aim to always give it my all and constantly improve.
 
-- 🔭 I’m currently working on changing careers.
-- 🌱 I’m currently learning everything?? It seems like I dont know what I need to know.
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with a lot. Any career advice is apreciated.
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: -->
-<!-- - 😄 Pronouns: -->
-- ⚡ Fun fact: ... still thinking about this one.
 
